@@ -1,0 +1,84 @@
+body {
+  line-height: 1.5;
+background-color: rgb(233, 243, 247);
+}
+
+#head{
+  width: 40%;
+  background-color: rgb(13, 37, 37);
+  align-items: left;
+}
+
+#head{
+  color: aliceblue;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+#formtitle{
+    font-size: 40px;
+}
+
+#main{
+  padding-bottom: 100px;
+}
+
+#keyword{
+  margin-top: 10px;
+  width:30%
+}
+
+#result{
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.manga {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px dashed gray; 
+}
+.thumbnail {
+  margin-right: 12px;
+}
+.title {
+  margin: 12px;
+  margin-top: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.authors {
+  font-size: 16px;
+  margin:12px
+}
+
+.wrapper {
+  max-width: 100%;
+  margin: auto;
+  padding: 80px;
+}
+
+#btn{
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  padding: 10px 30px;
+  background-color: lightblue;
+  display: block;
+  text-decoration: none;
+  color: black;
+  border-radius: 7px;
+  border:none;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+
